@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-color: rgb(79, 105, 111);
+  background-color: rgb(41, 193, 227);
   text-align: center;
   padding: 20px;
   margin-bottom: 10px;
@@ -37,16 +37,22 @@ nav {
 
 main {
   width: 70%;
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0, 255, 255, 0.457);
   padding: 10px;
   display: flex;
 }
 
 section {
-  background-color: rgba(255, 255, 255, 0.356);
+  background-color: rgba(59, 12, 228, 0.356);
+  border-radius: 5%;
   padding: 10px;
   width: 60%;
   text-align: center;
+}
+
+main aside {
+  padding-left: 5%;
+  width: 30%;
 }
 
 footer {
