@@ -10,6 +10,11 @@ body {
   margin: auto;
 }
 
+header aside {
+  min-width: 25%;
+  min-height: 25%
+}
+
 header {
   background-color: rgb(41, 193, 227);
   text-align: center;
